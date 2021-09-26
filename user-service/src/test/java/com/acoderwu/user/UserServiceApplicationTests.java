@@ -1,10 +1,10 @@
-package com.acoderwu.registry.server;
+package com.acoderwu.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegistryServerApplicationTests {
+class UserServiceApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package com.acoderwu.registry.server;
+package com.acoderwu.metadata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RegistryServerApplication {
+public class MetadataServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RegistryServerApplication.class, args);
+        SpringApplication.run(MetadataServiceApplication.class, args);
     }
 
 }
